@@ -3,7 +3,7 @@
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/harinipanigrahi/jenkins-maven-demo/target/test-classes:/Users/harinipanigrahi/jenkins-maven-demo/target/classes:/Users/harinipanigrahi/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.class.path" value="/Users/harinipanigrahi/jenkins-maven-demo/target/test-classes:/Users/harinipanigrahi/jenkins-maven-demo/target/classes:/Users/harinipanigrahi/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar:/Users/harinipanigrahi/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
@@ -12,10 +12,10 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/harinipanigrahi/jenkins-maven-demo/target/surefire/surefirebooter-20260202215239182_3.jar /Users/harinipanigrahi/jenkins-maven-demo/target/surefire 2026-02-02T21-52-39_030-jvmRun1 surefire-20260202215239182_1tmp surefire_0-20260202215239182_2tmp"/>
+    <property name="sun.java.command" value="/Users/harinipanigrahi/jenkins-maven-demo/target/surefire/surefirebooter-20260223070118725_3.jar /Users/harinipanigrahi/jenkins-maven-demo/target/surefire 2026-02-23T07-01-18_680-jvmRun1 surefire-20260223070118725_1tmp surefire_0-20260223070118725_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/harinipanigrahi/jenkins-maven-demo/target/test-classes:/Users/harinipanigrahi/jenkins-maven-demo/target/classes:/Users/harinipanigrahi/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/harinipanigrahi/jenkins-maven-demo/target/test-classes:/Users/harinipanigrahi/jenkins-maven-demo/target/classes:/Users/harinipanigrahi/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar:/Users/harinipanigrahi/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/harinipanigrahi"/>
     <property name="user.language" value="en"/>
@@ -29,14 +29,14 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/harinipanigrahi/jenkins-maven-demo/target/surefire/surefirebooter-20260202215239182_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/harinipanigrahi/jenkins-maven-demo/target/surefire/surefirebooter-20260223070118725_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="22.0.1+8-16"/>
     <property name="user.name" value="harinipanigrahi"/>
     <property name="stdout.encoding" value="UTF-8"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="26.2"/>
+    <property name="os.version" value="26.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
